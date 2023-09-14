@@ -1,0 +1,10 @@
+.copyright {
+  font-size: 11px;
+  text-align: center;
+  margin: 24px;
+  flex-grow: 0;
+}
+
+.copyright__link {
+  color: #3e52a3;
+}

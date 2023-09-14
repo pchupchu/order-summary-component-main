@@ -1,21 +1,31 @@
-# Getting Started with Create React App
+# [Order summary card](https://order-summary-component-main-vert-nu.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Live Site URL](https://order-summary-component-main-vert-nu.vercel.app/)
 
-### `npm run build`
+### Built with
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://github.com/facebook/create-react-app)
+
+## Author
+
+- Frontend Mentor - [@pchupchu](https://www.frontendmentor.io/profile/pchupchu)
 
