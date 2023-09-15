@@ -1,6 +1,6 @@
 import './OrderSummary.css';
 import musicFlatline from '../../images/illustration-hero.svg';
-import musicIcon from '../../images/icon-music.svg'
+import Plan from '../Plan/Plan';
 
 function OrderSummary() {
     return (
@@ -10,16 +10,9 @@ function OrderSummary() {
           <div className='container'>
             <h1 className="order__title">Order Summary</h1>
             <p className="order__subtitle">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
-            <div className='order__item'>
-              <img className='order__icon' src={musicIcon} alt='music icon'/>
-              <div>
-                <h2 className=''>Annual Plan</h2>
-                <p className='order__price'>$59.99/year</p>
-              </div>
-              <a href=' '>Change</a>
-            </div>
-            <button>Proceed to Payment</button>
-            <button>Cancel Order</button>
+            <Plan />
+            <button className='order__button'>Proceed to Payment</button>
+            <button className='order__cancel-button'>Cancel Order</button>
           </div>
         </div>
       </main>
