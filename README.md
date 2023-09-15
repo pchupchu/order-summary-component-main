@@ -21,7 +21,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://github.com/facebook/create-react-app)
 
