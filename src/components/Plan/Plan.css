@@ -10,6 +10,12 @@
   gap: 50px;
 }
 
+@media screen and (min-width: 960px) {
+  .plan {
+    padding: 25px 24px;
+  }
+}
+
 .plan__container {
   display: flex;
   align-items: center;
@@ -26,6 +32,12 @@
   font-weight: 900;
   color: var(--dark-blue);
   margin: 0 0 5px;
+}
+
+@media screen and (min-width: 960px) {
+  .plan__name {
+    margin-bottom: 8px;
+  }
 }
 
 @media screen and (min-width: 960px) {
